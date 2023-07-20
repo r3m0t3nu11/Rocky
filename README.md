@@ -9,11 +9,11 @@ Rocky is a Go interface tool for recursively crawling websites  extracting URLs 
 ![Screenshot from 2023-07-20 21-09-09](https://github.com/r3m0t3nu11/Rocky/assets/26588044/2db89224-27f0-48ed-a3d3-63ff6f23852b)
 ![Screenshot from 2023-07-20 21-10-02](https://github.com/r3m0t3nu11/Rocky/assets/26588044/c0dc9d49-e72c-4e32-8c88-acc115ec36a1)
 
-## Installation
+
 
 ### Go
 ```
-go install github.com/r3m0t3nu11/Rocky@master
+git clone https://github.com/r3m0t3nu11/Rocky.git&&cd Rocky;go build rocky.go
 ```
 
 ## Usage
