@@ -1,6 +1,6 @@
 # Go version
 
-go version go1.20.4 
+ go1.20.4 
 
 # Rocky
 Rocky is a Go interface tool for recursively crawling websites and extracting URLs and walkthrough and extract [query,endpoints].
