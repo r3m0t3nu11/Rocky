@@ -1,0 +1,44 @@
+# Compiled binary files
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+ouput*
+
+# Go binary
+/bin/
+
+# Go build cache
+/vendor/
+
+# Output directories
+/dist/
+/build/
+
+# IDE and text editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.editorconfig
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Dependency lock files
+Gopkg.lock
+go.sum
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
